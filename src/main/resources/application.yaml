@@ -23,7 +23,7 @@ dating-app:
     gender:
       - male
       - female
-      - divers
+      - diverse
     locations:
       - Cafe
       - Club
