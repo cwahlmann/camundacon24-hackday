@@ -1,0 +1,86 @@
+dating-app:
+  assets:
+    haircolor:
+      - blonde
+      - brown
+      - gray
+      - white
+      - red
+      - black
+    eyecolor:
+      - green
+      - blue
+      - gray
+      - gray-blue
+      - gray-green
+      - brown
+    body:
+      - tall
+      - muscular
+      - slim
+      - stocky
+      - bold
+    gender:
+      - male
+      - female
+      - diverse
+    locations:
+      - Cafe
+      - Club
+      - Park
+      - Nature
+      - Private
+      - CamundaCon
+    hobbies:
+      - Coding
+      - Bpmn-Modeling
+      - Painting
+      - Drawing
+      - Photography
+      - Writing
+      - Reading
+      - Hiking
+      - jogging
+      - Cycling
+      - Yoga
+      - Swimming
+      - Cooking
+      - Baking
+      - Gardening
+      - Fishing
+      - camping
+      - Traveling
+      - Listening to music
+      - Playing musical instruments
+      - Dancing
+      - model making
+      - sewing
+      - knitting
+      - crocheting
+      - Woodwork
+      - Pottery
+      - Playing board games
+      - Playing video games
+      - Solving puzzles
+      - Playing chess
+      - Watch movies
+      - Watching series
+      - Visit theaters
+      - Visit museums
+      - Watching cartoons
+      - Going to the gym
+      - Pilates
+      - Climbing
+      - skateboarding
+      - snowboarding
+      - Skiing
+      - horseback riding
+      - Playing tennis
+      - Playing soccer
+      - Play basketball
+      - Play golf
+      - Play table tennis
+      - take photos
+      - Origami
+      - Watercolor painting
+      - blogging

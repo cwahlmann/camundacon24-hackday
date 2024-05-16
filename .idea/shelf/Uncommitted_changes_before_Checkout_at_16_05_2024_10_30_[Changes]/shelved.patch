@@ -1,0 +1,16 @@
+Index: datingapp/src/main/resources/application.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>spring.application.name=datingapp\r\n\r\nZEEBE_CLIENT_CLOUD_CLUSTER-ID=xxx\r\nZEEBE_CLIENT_CLOUD_CLIENT-ID=xxx\r\nZEEBE_CLIENT_CLOUD_CLIENT-SECRET=xxx\r\nZEEBE_CLIENT_CLOUD_REGION=bru-2
+===================================================================
+diff --git a/datingapp/src/main/resources/application.properties b/datingapp/src/main/resources/application.properties
+--- a/datingapp/src/main/resources/application.properties	
++++ b/datingapp/src/main/resources/application.properties	
+@@ -3,4 +3,4 @@
+ ZEEBE_CLIENT_CLOUD_CLUSTER-ID=xxx
+ ZEEBE_CLIENT_CLOUD_CLIENT-ID=xxx
+ ZEEBE_CLIENT_CLOUD_CLIENT-SECRET=xxx
+-ZEEBE_CLIENT_CLOUD_REGION=bru-2
+\ No newline at end of file
++ZEEBE_CLIENT_CLOUD_REGION=xxx
+\ No newline at end of file
